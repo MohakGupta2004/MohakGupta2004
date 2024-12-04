@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Backend Technologies**
 
-- 👯 I’m looking to collaborate on [Freecodecamp](https://github.com/freeCodeCamp/freeCodeCamp.git)
+- 👯 I’m looking to collaborate on [MonkeyType](https://github.com/monkeytypegame/monkeytype)
 
 - 🤝 I’m looking for help with [Pentest-API](https://github.com/MohakGupta2004/PentestAPI.git)
 
