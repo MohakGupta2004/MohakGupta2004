@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ai-agent](https://github.com/MohakGupta2004/ai-agent.git)
 
-- 🌱 I’m currently learning **ReactJS, NextJS, Backend Technologies**
+- 🌱 I’m currently learning **ReactJS, NextJS, Backend Technologies, Web3 and also CyberSecurity Basics**
 
 - 👯 I’m looking to collaborate on [MonkeyType](https://github.com/monkeytypegame/monkeytype)
 
