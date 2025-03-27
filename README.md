@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohakgupta2004&label=Profile%20views&color=0e75b6&style=flat" alt="mohakgupta2004" /> </p>
 
-- 🔭 I’m currently working on [ai-agent](https://github.com/MohakGupta2004/ai-agent.git)
+- 🔭 I’m currently working on [Strato.dev](https://github.com/MohakGupta2004/Strato.dev)
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Backend Technologies, Web3 and also CyberSecurity Basics**
 
