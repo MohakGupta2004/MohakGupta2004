@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Backend Technologies, Web3 and also CyberSecurity Basics**
 
-- 👯 I’m looking to collaborate on [MonkeyType](https://github.com/monkeytypegame/monkeytype)
+- 👯 I’m looking to collaborate on [Strato.dev](https://github.com/monkeytypegame/Strato.dev)
 
 - 🤝 I’m looking for help with [Cloak](https://github.com/MohakGupta2004/Cloak.git)
 
