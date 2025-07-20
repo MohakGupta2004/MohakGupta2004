@@ -1,36 +1,72 @@
-<h1 align="center">Hi 👋, I'm Mohak</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohakgupta2004&label=Profile%20views&color=0e75b6&style=flat" alt="mohakgupta2004" /> </p>
+###
 
-- 🔭 I’m currently working on [MorphSploit](https://github.com/MohakGupta2004/Morphsploit)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
+</div>
 
-- 🌱 I’m currently learning **ReactJS, NextJS, Backend Technologies, Web3 and also CyberSecurity Basics**
+###
 
-- 👯 I’m looking to collaborate on [Strato.dev](https://github.com/MohakGupta2004/Strato.dev)
+<h3 align="center">Hi 👋, I'm Mohak</h3>
+<h4 align="center">Backend developer, privacy geek & cybersecurity enthusiast from India 🇮🇳</h4>
 
-- 🤝 I’m looking for help with [Cloak](https://github.com/MohakGupta2004/Cloak.git)
+###
 
-- 💬 Ask me about **Express JS**
+✨ **Currently exploring:**  
+🔭 Working on **DSA** and building with **Electron JS**  
+🌱 Learning **ReactJS, NextJS, backend technologies, Web3, and cybersecurity basics**
 
-- 📫 How to reach me **mohakgupta500@gmail.com**
+👯 **Looking to collaborate on:**  
+- [**Cloak-desktop**](https://github.com/MohakGupta2004/Cloak-desktop) — a privacy-focused chat app  
+- [**Strato.dev**](https://github.com/MohakGupta2004/Strato.dev)
 
-- ⚡ Fun fact **I use Arch Btw**
+🤝 **Looking for help with:**  
+- [**Cloak**](https://github.com/MohakGupta2004/Cloak.git) — Tor-based encrypted communication  
+- **Hades** — a cybersecurity project that evolved into my startup
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/rushbeef04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rushbeef04" height="30" width="40" /></a>
-<a href="https://twitter.com/rushbeef04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rushbeef04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//mohak-gupta-007065294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/mohak-gupta-007065294/" height="30" width="40" /></a>
-<a href="https://instagram.com/mohaak_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohaak_gupta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mohakgupta3586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mohakgupta3586" height="30" width="40" /></a>
-</p>
+💬 **Ask me about:**  
+Hacking 🐱‍💻 · Open source 🛠 · Web development 🌐 · Web3 🪙 · Express.js
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+⚡ **Fun fact:**  
+> *I use Arch btw.* 😎
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohakgupta2004&show_icons=true&locale=en&layout=compact" alt="mohakgupta2004" /></p>
+📫 **How to reach me:**  
+**mohakgupta500@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohakgupta2004&show_icons=true&locale=en" alt="mohakgupta2004" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohakgupta2004&" alt="mohakgupta2004" /></p>
+<div align="center">
+  <a href="https://linkedin.com/in/mohak-gupta-007065294/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <a href="https://twitter.com/rushbeef04" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo" /></a>
+  <a href="https://dev.to/rushbeef04" target="blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" alt="devto logo" /></a>
+  <a href="https://instagram.com/mohaak_gupta" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" /></a>
+  <a href="https://www.youtube.com/c/@mohakgupta3586" target="blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo" /></a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MohakGupta2004&theme=dracula&hide_border=false&border_radius=5&mode=daily" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohakGupta2004&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohakGupta2004/MohakGupta2004/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohakGupta2004/MohakGupta2004/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohakGupta2004/MohakGupta2004/output/pacman-contribution-graph.svg">
+</picture>
