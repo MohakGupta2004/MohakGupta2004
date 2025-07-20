@@ -63,43 +63,15 @@ Hacking 🐱‍💻 · Open source 🛠 · Web development 🌐 · Web3 🪙 · 
   <img src="https://github-profile-trophy.vercel.app/?username=MohakGupta2004&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohakGupta2004&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohakGupta2004&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<img src="https://raw.githubusercontent.com/MohakGupta2004/MohakGupta2004/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/MohakGupta2004/MohakGupta2004/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/MohakGupta2004/MohakGupta2004/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/MohakGupta2004/MohakGupta2004/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/MohakGupta2004/MohakGupta2004/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/MohakGupta2004/MohakGupta2004/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/MohakGupta2004/MohakGupta2004/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/MohakGupta2004/MohakGupta2004/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/MohakGupta2004/MohakGupta2004/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohakGupta2004" alt="GitHub Streak" />
+</p>
 
